@@ -108,7 +108,7 @@ This project implements an image captioning model that generates descriptive cap
 ### The model generates captions describing the content of input images. Sample output:
 
 Input Image:
-
+![Picture](https://github.com/MAHFUZATUL-BUSHRA/Image_Captioning-Model/blob/main/input.png)
 
 Generated Caption:
 
