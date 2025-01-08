@@ -146,7 +146,7 @@ Generated Caption:
 
 ## References
 
-Flickr8k Dataset
+[Flickr8k Dataset](https://github.com/MAHFUZATUL-BUSHRA/Image_Captioning-Model/tree/main/Image%20Captioning%20Model/Flicker8k_Dataset)
 
 [keras](https://keras.io/)
 
