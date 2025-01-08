@@ -152,3 +152,5 @@ Generated Caption:
 
 [TensorFlow Documentation](https://www.tensorflow.org/)
 
+## Implementation
+[Code](https://github.com/MAHFUZATUL-BUSHRA/Image_Captioning-Model/blob/main/Image%20Captioning%20Model/Image_captioning.ipynb)
