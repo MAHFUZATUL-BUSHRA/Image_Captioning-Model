@@ -143,7 +143,21 @@ This project implements an image captioning model that generates descriptive cap
 * Implement attention mechanisms for better context understanding.
 
 * Expand to larger datasets like MS COCO for improved generalization.
-
+## Future WorK
+#### Input1:
+![p](https://github.com/MAHFUZATUL-BUSHRA/Image_Captioning-Model/blob/main/dog.png)
+### Generated Caption
+#### Baseline model:
+ black dog and tri-colored dog playing with each other on the road.
+#### Proposed model:
+black dog and white dog with brown spots are staring at each other in the street.
+#### Input2:
+![p](https://github.com/MAHFUZATUL-BUSHRA/Image_Captioning-Model/blob/main/girl.png)
+### Generated Caption
+#### Baseline model:
+ little girl climbing the stairs to her playhouse.
+#### Proposed model:
+little girl in pink dress going into wooden cabin.
 ## References
 
 [Flickr8k Dataset](https://github.com/MAHFUZATUL-BUSHRA/Image_Captioning-Model/tree/main/Image%20Captioning%20Model/Flicker8k_Dataset)
